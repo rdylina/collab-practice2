@@ -1,0 +1,21 @@
+header
+{
+	height: 10vh;
+}
+
+.main_content
+{
+	height: 80vh;
+}
+
+.whereami
+{
+	border: dotted blueviolet;
+
+	
+}
+
+footer
+{
+	height: 10vh;
+}
