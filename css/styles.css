@@ -15,6 +15,11 @@ header
 	
 }
 
+.whereami img
+{
+	height: 300px;
+}
+
 footer
 {
 	height: 10vh;
